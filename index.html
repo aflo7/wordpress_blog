@@ -63,7 +63,7 @@
 			const section = document.getElementById("post-wrapper");
 			posts.forEach(post => {
 				var dateElement = document.createElement("span");
-				dateElement.className = "date";
+				dateElement.className = "date left-align";
 
 				// Set the inner text of the span
 				const date = new Date(post.date)
@@ -72,6 +72,7 @@
 
 				const articleElement = document.createElement("article");
 				const headerElement = document.createElement('header');
+				headerElement.className = "left-align";
 				var imageElement = document.createElement("img");
 
 				function randomIntFromInterval(min, max) { // min and max included 
