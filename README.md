@@ -1,1 +1,1 @@
-HTML and CSS frontend, Wordpress backend
+See the page here: https://github.com/aflo7/wordpress_blog/deployments/github-pages
