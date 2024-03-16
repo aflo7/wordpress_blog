@@ -6,7 +6,7 @@ Single post
 
 - The following is code to show a single post on the page.
 - For this application, I created an article element for each post.
-- The posts are retrieved from an API, which is connected to a database.
+- The posts are retrieved from an API, which is connected to a SQL database.
 
 ```html
 <article>
