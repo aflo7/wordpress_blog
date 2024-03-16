@@ -1,4 +1,4 @@
-See the page here: https://github.com/aflo7/wordpress_blog/deployments/github-pages
+See the page here: https://aflo7.github.io/wordpress_blog/
 
 <hr>
 
