@@ -1,0 +1,12 @@
+article * {
+  cursor: pointer;
+}
+
+article {
+  cursor: pointer;
+  padding: 4rem;
+}
+
+article:hover {
+  background-color: rgb(232, 232, 232);
+}
